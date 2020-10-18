@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Click Here😊](https://drive.google.com/file/d/192SjUpRNG6jcMvjJM9dlXdXiRUrDv7go/view)
 
-- ⚡ Fun fact **If I won award for laziness.I will send somebody to pick it for me😂😂 **
+- ⚡ Fun fact **If I won award for laziness.I will send somebody to pick it for me😂😂**
 
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni1123&layout=compact&hide=html&theme=radical" alt="anni1123" /></p>
