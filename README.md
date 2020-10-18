@@ -5,7 +5,6 @@
 -->
 <h3 align="center">Junior in CSE Nit Patna | DSC Web Lead | Android Developer | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anni1123&label=Profile%20views&color=0e75b6&style=flat" alt="anni1123" /> </p>
 
 - 👨‍💻Visit My Portfolio site [https://anni1123.github.io/MyPortfolio/](https://anni1123.github.io/MyPortfolio/)
 
