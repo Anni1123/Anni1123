@@ -1,9 +1,9 @@
-### Hi there 👋
+😁### Hi there 👋,I'm Anni Kumari 😀
 
 <!--
 **Anni1123/Anni1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">Junior in CSE Nit Patna | DSC Web Lead | Android Developer | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anni1123&label=Profile%20views&color=0e75b6&style=flat" alt="anni1123" /> </p>
 
