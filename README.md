@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni1123&layout=compact&hide=html&theme=radical" alt="anni1123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anni1123&show_icons=true" alt="anni1123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anni1123&show_icons=true&theme=radical&count_private=true" alt="anni1123" /></p>
 
 
