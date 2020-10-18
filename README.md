@@ -9,7 +9,7 @@
 - 👨‍💻Visit My Portfolio site [](https://anni1123.github.io/MyPortfolio/)
 -->
 
-<p align="center">My name is Anni Kumari. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am currently holding a position of Google Web Web Lead at NIT Patna.I love to compose code in Java & Python.I love Long Nights Of code. I am very interested in Development of Android App and Website Development.</p>
+<p align="center">I am Anni kumari currently pursuing bachelor's degree in Computer Science at Nit Patna. I believes in creating value-based products and is interested in Web development and Android development.My academic interest lie in Data structure and algorithm.I am a open source contributor and Full stack developer.</p>
 
 
 - 💬 Ask me about **Android studio,Django,Firebase**
