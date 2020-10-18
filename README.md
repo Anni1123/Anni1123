@@ -9,7 +9,8 @@
 - 👨‍💻Visit My Portfolio site [](https://anni1123.github.io/MyPortfolio/)
 -->
 
-<p align="center">My name is Anni Kumari. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am currently holding a position of Google Web ML Lead at NIT Patna.I recently completed working as Machine Learning Intern in <a href="https://github.com/ShapeAI">ShapeAI</a> .Currently I am working as Deep Learning Intern at Lambda Vision.I love to compose code in Python,C++,Java. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
+<p align="center">My name is Anni Kumari. I am currently pursing Bachelor of Technology in CSE in NIT Patna 2022 Batch. I am currently holding a position of Google Web ML Lead at NIT Patna.I recently completed working as Machine Learning Intern in <a href="https://github.com/ShapeAI">ShapeAI</a> ..I love to compose code in Python,C++,Java. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
+
 
 - 💬 Ask me about **Android studio,Django,Firebase**
 
