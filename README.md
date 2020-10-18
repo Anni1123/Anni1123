@@ -1,4 +1,4 @@
-😁### Hi there 👋,I'm Anni Kumari 😀
+😁<h1>Hi there 👋,I'm Anni Kumari 😀</h1>
 
 <!--
 **Anni1123/Anni1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I think I am lazy.But Development is something that i really love.**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni1123&layout=compact" alt="anni1123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni1123&layout=compact&hide=html&theme=radical" alt="anni1123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anni1123&show_icons=true" alt="anni1123" /></p>
 
