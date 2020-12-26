@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **annik.ug18.cs@nitp.ac.in**
 
-- 📄 Know about my experiences [Click Here😊](https://drive.google.com/file/d/192SjUpRNG6jcMvjJM9dlXdXiRUrDv7go/view)
-
 <!--
 - ⚡ Fun fact **If I won award for laziness.I will send somebody to pick it for me😂😂**
 
