@@ -13,7 +13,7 @@
 
 
 - 💬 Ask me about **Android studio,Django,Firebase**
-- 💬 Published 100+ Article on GeeksForGeeks  [View My Articles](https://auth.geeksforgeeks.org/user/annianni/articles)
+- 💬 Published 100+ Article on GeeksForGeeks  [Click Here to View My Articles](https://auth.geeksforgeeks.org/user/annianni/articles)
 
 - 📫 How to reach me **annik.ug18.cs@nitp.ac.in**
 
@@ -24,5 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni1123&layout=compact&hide=html&theme=radical" alt="anni1123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anni1123&show_icons=true&theme=radical&count_private=true" alt="anni1123" /></p>
-
 
