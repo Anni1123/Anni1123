@@ -13,7 +13,7 @@
 
 
 - 💬 Ask me about **Android studio,Django,Firebase**
-- 💬 Published 100+ Article on GeeksForGeeks  [Click Here to View My Articles](https://auth.geeksforgeeks.org/user/annianni/articles)
+- 💬 Published 105 Article on GeeksForGeeks  [Click Here to View My Articles](https://auth.geeksforgeeks.org/user/annianni/articles)
 
 - 📫 How to reach me **annik.ug18.cs@nitp.ac.in**
 
