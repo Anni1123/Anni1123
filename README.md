@@ -3,7 +3,7 @@
 <!--
 **Anni1123/Anni1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3 align="center">Upcoming SDE @Microsoft | ex-Intern @Amex | ex-Intern @GFG | NitP'22 | ex-DSC Web Lead | Android Developer | Open Source Contributor</h3>
+<h3 align="center">Upcoming SWE @Microsoft | ex-Intern @Amex | ex-Intern @GFG | NitP'22 | ex-DSC Web Lead | Android Developer | Open Source Contributor</h3>
 
 <!--
 - 👨‍💻Visit My Portfolio site [](https://anni1123.github.io/MyPortfolio/)
