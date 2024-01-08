@@ -9,7 +9,7 @@
 - 👨‍💻Visit My Portfolio site [](https://anni1123.github.io/MyPortfolio/)
 -->
 
-<p align="center">I am Anni kumari , Upcoming Software Developer at Microsoft. I believes in creating value-based products and is interested in Android development and Web development. My academic interest lie in Data structure and algorithm. I am a open source contributor and Full stack developer.</p>
+<p align="center">I am Anni kumari , Software Developer at Microsoft. I believes in creating value-based products and is interested in Android development and Web development. My academic interest lie in Data structure and algorithm. I am a open source contributor and Full stack developer.</p>
 
 
 - 💬 Ask me about **Android studio,Django,Firebase**
